@@ -5,6 +5,14 @@
             font-family: arial;
 
         }
+hr{
+    background-color: #EAF6F6;
+    border-style: dotted none none none;
+    border-width: 5px;
+    border-color: gray;
+    height: 2px;
+    width: 4%;
+}
         h1,p {
         font-family: Lucida Calligraphy,Sacramento, arial;
         margin:10px auto 0 auto;
