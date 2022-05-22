@@ -1,0 +1,50 @@
+        body{
+            background-color: #CCF3EE;
+            margin:0px;
+            text-align:left;
+            font-family: arial;
+
+        }
+        h1,p {
+        font-family: Lucida Calligraphy,Sacramento, arial;
+        margin:10px auto 0 auto;
+        }
+        h2{
+        font-size:2.5rem;
+        font-family: Sacramento, arial;
+       margin:0 auto 0 auto;
+
+        }
+        .top-container{
+            background-color:#CCF3EE;
+            padding-top:20px;
+            position:relative;
+        }
+        .middle-container{
+        }
+        .bottom-container{
+}
+        .pro{
+        text-decoration: underline;
+       }
+       .visual{
+       display:inline-block;
+       visibility:hidden;
+       width: 50%;
+       }
+       .avatar{
+       height:200px;
+       width:200px;
+       }
+       .computer{
+       height:200px;
+       width:200px;
+       }
+       .infineon{
+       position:relative;
+       margin-top:0;
+       }
+       .contact-me{
+
+        text-align:center;
+       }
